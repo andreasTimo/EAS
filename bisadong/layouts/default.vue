@@ -4,8 +4,8 @@
         <h1>Nuxt Blog</h1>
         <nav>
           <nuxt-link to="/">Home</nuxt-link> |
-          <nuxt-link to="/blogs">Get Blogs</nuxt-link> |
-          <nuxt-link to="/about">About Us</nuxt-link>
+          <nuxt-link to="/regis">Registration</nuxt-link> |
+          
         </nav>
       </header>
       <main>
